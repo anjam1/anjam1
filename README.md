@@ -52,8 +52,8 @@ I'm available for freelance projects involving:
 
 ## 📊 GitHub Stats
 
-![Anjum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjam-haseeb&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjam-haseeb&layout=compact&theme=dark&hide_border=true)
+![Anjam1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjam1&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjam1&layout=compact&theme=dark&hide_border=true)
 
 ---
 
