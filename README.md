@@ -40,7 +40,7 @@ An intelligent chatbot powered by OpenAI that understands natural language and q
 I'm available for freelance projects involving:
 - AI Chatbot Development
 - FastAPI Backend Development
-- OpenAI / LLM Integration
+- AI / LLM Integration
 - Dockerized Application Deployment
 
 [![Fiverr](https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/anjam_haseeb)
