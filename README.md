@@ -8,12 +8,12 @@ Currently expanding into **Kubernetes** for container orchestration and explorin
 
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Openclaw](https://img.shields.io/badge/Openclaw-Digital_FTEs-orange?style=for-the-badge)
 ---
 
 ## 🚀 Projects
