@@ -24,8 +24,7 @@ A full-featured backend system for managing institutes — students, staff, cour
 ### 🤖 AI Chatbot — Natural Language to Database
 An intelligent chatbot powered by OpenAI that understands natural language and queries a live database to return real-time answers. No SQL knowledge needed for the end user.
 
-### ✅ Todo App
-A clean, API-driven task management app built with FastAPI and containerized with Docker.
+
 
 ---
 
