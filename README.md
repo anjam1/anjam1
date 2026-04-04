@@ -1,8 +1,8 @@
-# Hi, I'm Anjum Haseeb 👋
+# Hello, I'm Anjum Haseeb 👋
 
 I'm a backend-focused software developer specializing in **AI-powered systems** and **scalable APIs**. I build intelligent digital workers (FTEs) that automate real business workflows — from database-talking chatbots to fully autonomous AI agents.
 
-Currently expanding into **Kubernetes** for container orchestration and exploring **OpenClaw** for building next-generation digital FTEs.
+Currently expanding into **Kubernetes** for container orchestration and exploring **OpenClaw** for building next-generation digital FTEs. I practice **AI-Driven Development** using **Claude Code** to ship faster and smarter.
 
 ---
 
@@ -13,7 +13,9 @@ Currently expanding into **Kubernetes** for container orchestration and explorin
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI--Driven_Dev-D97757?style=for-the-badge)
 ![Openclaw](https://img.shields.io/badge/Openclaw-Digital_FTEs-orange?style=for-the-badge)
+
 ---
 
 ## 🚀 Projects
@@ -24,24 +26,25 @@ A full-featured backend system for managing institutes — students, staff, cour
 ### 🤖 AI Chatbot — Natural Language to Database
 An intelligent chatbot powered by OpenAI that understands natural language and queries a live database to return real-time answers. No SQL knowledge needed for the end user.
 
-
-
 ---
 
 ## 🔭 Currently Working On
 
 - Building **Digital FTEs** (Functional Task Executors) using **OpenClaw** — AI agents that replace repetitive human workflows
 - Deepening expertise in **Kubernetes** for production-grade container orchestration
+- Practicing **AI-Driven Development** with **Claude Code** to accelerate backend development workflows
 
 ---
 
 ## 💼 Open to Freelance Work
 
 I'm available for freelance projects involving:
+
 - AI Chatbot Development
 - FastAPI Backend Development
 - AI / LLM Integration
 - Dockerized Application Deployment
+- AI-Driven Rapid Development (faster delivery using Claude Code)
 
 [![Fiverr](https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/anjam_haseeb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjum-haseeb-5859b2279)
@@ -51,8 +54,8 @@ I'm available for freelance projects involving:
 
 ## 📊 GitHub Stats
 
-![Anjum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjam1&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjam1&layout=compact&theme=dark&hide_border=true)
+[![Anjum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjam1&show_icons=true&theme=dark&hide_border=true)](https://github.com/anjam1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjam1&layout=compact&theme=dark&hide_border=true)](https://github.com/anjam1)
 
 ---
 
